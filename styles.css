@@ -5,3 +5,8 @@
 .medium-header {
     color: #8B8000;
 }
+
+img {
+    width: 500px;
+    height: auto;
+}
