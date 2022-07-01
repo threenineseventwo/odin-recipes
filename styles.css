@@ -14,3 +14,10 @@ img {
     width: 500px;
     height: auto;
 }
+
+.center {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
