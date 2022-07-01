@@ -6,6 +6,10 @@
     color: #8B8000;
 }
 
+.small-header {
+    color: #00FF00
+}
+
 img {
     width: 500px;
     height: auto;
