@@ -1,24 +1,24 @@
 .big-header {
-    color: blue;
+  color: blue;
 }
 
 .medium-header {
-    color: #8B8000;
+  color: #8b8000;
 }
 
 .small-header {
-    color: #00FF00
+  color: #00ff00;
 }
 
 img {
-    width: 500px;
-    height: auto;
-    border: 5px solid black;
+  width: 500px;
+  height: auto;
+  border: 5px solid black;
 }
 
 .center {
-    text-align: center;
-    margin: auto;
-    width: 50%;
-    padding: 10px;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
 }
